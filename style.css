@@ -1,0 +1,9 @@
+*{margin:0;padding:0;box-sizing:border-box;font-family: 'Mulish', sans-serif;}
+html{scroll-behavior: smooth;}
+
+.covid-alert{
+    background-color: green;
+    border-radius: 0%;
+    margin-bottom: 0px;
+
+}
